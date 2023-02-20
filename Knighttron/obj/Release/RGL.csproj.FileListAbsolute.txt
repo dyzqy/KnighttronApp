@@ -1,0 +1,33 @@
+C:\Users\addie\source\repos\RGL\RGL\bin\Release\RGL.exe.config
+C:\Users\addie\source\repos\RGL\RGL\bin\Release\RGL.exe
+C:\Users\addie\source\repos\RGL\RGL\bin\Release\RGL.pdb
+C:\Users\addie\source\repos\RGL\RGL\obj\Release\RGL.csproj.AssemblyReference.cache
+C:\Users\addie\source\repos\RGL\RGL\obj\Release\RGL.csproj.SuggestedBindingRedirects.cache
+C:\Users\addie\source\repos\RGL\RGL\obj\Release\RGL.Form1.resources
+C:\Users\addie\source\repos\RGL\RGL\obj\Release\RGL.Properties.Resources.resources
+C:\Users\addie\source\repos\RGL\RGL\obj\Release\RGL.csproj.GenerateResource.cache
+C:\Users\addie\source\repos\RGL\RGL\obj\Release\RGL.csproj.CoreCompileInputs.cache
+C:\Users\addie\source\repos\RGL\RGL\obj\Release\RGL.exe
+C:\Users\addie\source\repos\RGL\RGL\obj\Release\RGL.pdb
+D:\Projects\RGL\RGL\bin\Release\RGL.exe.config
+D:\Projects\RGL\RGL\bin\Release\RGL.exe
+D:\Projects\RGL\RGL\bin\Release\RGL.pdb
+D:\Projects\RGL\RGL\obj\Release\RGL.csproj.AssemblyReference.cache
+D:\Projects\RGL\RGL\obj\Release\RGL.csproj.SuggestedBindingRedirects.cache
+D:\Projects\RGL\RGL\obj\Release\RGL.Form1.resources
+D:\Projects\RGL\RGL\obj\Release\RGL.Properties.Resources.resources
+D:\Projects\RGL\RGL\obj\Release\RGL.csproj.GenerateResource.cache
+D:\Projects\RGL\RGL\obj\Release\RGL.csproj.CoreCompileInputs.cache
+D:\Projects\RGL\RGL\obj\Release\RGL.exe
+D:\Projects\RGL\RGL\obj\Release\RGL.pdb
+C:\Users\dyzqy\Downloads\RGL (1)\RGL\RGL\bin\Release\Knighttron.exe.config
+C:\Users\dyzqy\Downloads\RGL (1)\RGL\RGL\bin\Release\Knighttron.exe
+C:\Users\dyzqy\Downloads\RGL (1)\RGL\RGL\bin\Release\Knighttron.pdb
+C:\Users\dyzqy\Downloads\RGL (1)\RGL\RGL\obj\Release\RGL.csproj.AssemblyReference.cache
+C:\Users\dyzqy\Downloads\RGL (1)\RGL\RGL\obj\Release\RGL.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyzqy\Downloads\RGL (1)\RGL\RGL\obj\Release\RGL.Form1.resources
+C:\Users\dyzqy\Downloads\RGL (1)\RGL\RGL\obj\Release\Knighttron.Properties.Resources.resources
+C:\Users\dyzqy\Downloads\RGL (1)\RGL\RGL\obj\Release\RGL.csproj.GenerateResource.cache
+C:\Users\dyzqy\Downloads\RGL (1)\RGL\RGL\obj\Release\RGL.csproj.CoreCompileInputs.cache
+C:\Users\dyzqy\Downloads\RGL (1)\RGL\RGL\obj\Release\Knighttron.exe
+C:\Users\dyzqy\Downloads\RGL (1)\RGL\RGL\obj\Release\Knighttron.pdb

@@ -1,0 +1,11 @@
+C:\Users\addie\source\repos\RGL\RGL\bin\Debug\RGL.exe.config
+C:\Users\addie\source\repos\RGL\RGL\bin\Debug\RGL.exe
+C:\Users\addie\source\repos\RGL\RGL\bin\Debug\RGL.pdb
+C:\Users\addie\source\repos\RGL\RGL\obj\Debug\RGL.csproj.AssemblyReference.cache
+C:\Users\addie\source\repos\RGL\RGL\obj\Debug\RGL.csproj.SuggestedBindingRedirects.cache
+C:\Users\addie\source\repos\RGL\RGL\obj\Debug\RGL.Form1.resources
+C:\Users\addie\source\repos\RGL\RGL\obj\Debug\RGL.Properties.Resources.resources
+C:\Users\addie\source\repos\RGL\RGL\obj\Debug\RGL.csproj.GenerateResource.cache
+C:\Users\addie\source\repos\RGL\RGL\obj\Debug\RGL.csproj.CoreCompileInputs.cache
+C:\Users\addie\source\repos\RGL\RGL\obj\Debug\RGL.exe
+C:\Users\addie\source\repos\RGL\RGL\obj\Debug\RGL.pdb
