@@ -1,0 +1,7 @@
+How to fix if the EXE doesn't work:
+1. "Run As Administrator",
+If it still doesn't work send me the error via discord or GitHub
+
+Credits:
+App - dyzqy
+FlashGame - Ant.Karlov

@@ -106,7 +106,7 @@ namespace Knighttron
                 }
                 try
                 {
-                    MoveWindow(p.MainWindowHandle, -8, -50, 665, 480, true);
+                    MoveWindow(p.MainWindowHandle, -8, -50, 735, 520, true);
                 }
                 catch (Exception me)
                 {
