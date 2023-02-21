@@ -1,0 +1,11 @@
+C:\Users\dyzqy\Downloads\RGL (1)\Knighttron\Knighttron\bin\Release\Knighttron.exe.config
+C:\Users\dyzqy\Downloads\RGL (1)\Knighttron\Knighttron\bin\Release\Knighttron.exe
+C:\Users\dyzqy\Downloads\RGL (1)\Knighttron\Knighttron\bin\Release\Knighttron.pdb
+C:\Users\dyzqy\Downloads\RGL (1)\Knighttron\Knighttron\obj\Release\Knighttron.csproj.AssemblyReference.cache
+C:\Users\dyzqy\Downloads\RGL (1)\Knighttron\Knighttron\obj\Release\Knighttron.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyzqy\Downloads\RGL (1)\Knighttron\Knighttron\obj\Release\Knighttron.Form1.resources
+C:\Users\dyzqy\Downloads\RGL (1)\Knighttron\Knighttron\obj\Release\Knighttron.Properties.Resources.resources
+C:\Users\dyzqy\Downloads\RGL (1)\Knighttron\Knighttron\obj\Release\Knighttron.csproj.GenerateResource.cache
+C:\Users\dyzqy\Downloads\RGL (1)\Knighttron\Knighttron\obj\Release\Knighttron.csproj.CoreCompileInputs.cache
+C:\Users\dyzqy\Downloads\RGL (1)\Knighttron\Knighttron\obj\Release\Knighttron.exe
+C:\Users\dyzqy\Downloads\RGL (1)\Knighttron\Knighttron\obj\Release\Knighttron.pdb

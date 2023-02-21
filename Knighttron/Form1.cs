@@ -15,6 +15,9 @@ namespace Knighttron
     public partial class Form1 : Form
     {
         public float scale = 1f;
+        int swf_Width = 720;
+        int swf_Height = 480;
+
         public Form1()
         {
             InitializeComponent();
@@ -79,7 +82,7 @@ namespace Knighttron
                 Log.Text += "Starting game...";
                 Log.Visible = true;
                 this.Cursor = Cursors.Hand;
-                string serverurl = "https://cache.armorgames.com/files/games/knighttron-17722.swf?v=1443468804";
+                string serverurl = "https://github.com/dyzqy/KnighttronApp/blob/main/Games/knighttron-fix.swf?raw=true";
                 string gd = serverurl + "";
                 string pd = "rgf.exe";
                 Log.Visible = false;
@@ -89,7 +92,7 @@ namespace Knighttron
                 p = Process.Start(si);
                 p.WaitForInputIdle();
                 SetParent(p.MainWindowHandle, panel1.Handle);
-                MoveWindow(p.MainWindowHandle, -8, -50, 665, 480, true);
+                MoveWindow(p.MainWindowHandle, -8, -50, swf_Width + 15, swf_Height + 40, true);
                 p.ToString();
             }
             catch (Exception chkex)
@@ -106,7 +109,7 @@ namespace Knighttron
                 }
                 try
                 {
-                    MoveWindow(p.MainWindowHandle, -8, -50, 735, 520, true);
+                    MoveWindow(p.MainWindowHandle, -8, -50, swf_Width + 15, swf_Height + 40, true);
                 }
                 catch (Exception me)
                 {
